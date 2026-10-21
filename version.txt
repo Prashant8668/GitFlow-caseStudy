@@ -1,0 +1,3 @@
+Application: Student Management System
+Version: 1.0.0
+Release Status: Ready for Testing
